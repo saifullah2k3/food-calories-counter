@@ -36,7 +36,7 @@ food-calories-counter/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/food-calories-counter.git
+   git clone https://github.com/saifullah2k3/food-calories-counter.git
    cd food-calories-counter
    ```
 
